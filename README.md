@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I took AP CSA in the 2023-24 School Year.
 
 <!--
 **silkyhub/silkyhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
