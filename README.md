@@ -1,4 +1,4 @@
-### Hi there 👋 I took AP CSA in the 2023-24 School Year.
+### Hi there 👋 I took AP CSA in the 2023-24 School Year. I took CSC 221 in the first semester of 24-25 year. Now I am taking ITP 225 for the second semester of 24-25 year.
 
 <!--
 **silkyhub/silkyhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
